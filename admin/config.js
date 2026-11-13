@@ -242,6 +242,8 @@
                   bi('all', 'زرار الفلتر: الكل'),
                   bi('caseTitle', 'عنوان: دراسات حالة'),
                   bi('moreTitle', 'عنوان: مشاريع تانية'),
+                  bi('readMore', 'زرار: قراءة المزيد'),
+                  bi('readLess', 'زرار: عرض أقل'),
                   bi('ctaTitle', 'عنوان الدعوة في الآخر', 'string', KASHIDA),
                   bi('ctaText', 'نص الدعوة', 'text'),
                   bi('ctaButton', 'زرار صفحة التواصل')
